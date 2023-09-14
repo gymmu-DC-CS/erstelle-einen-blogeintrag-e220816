@@ -4,6 +4,24 @@
   box-sizing: content-box;
 }
 
+h1 {
+  color: blue;
+  font-style: italic;
+  font-size: 100px;
+}
+
+h2 {
+  color: red;
+  font-size: 50px;
+}
+
+p {
+  color: greenyellow;
+  font-size: 20px;
+}
+
+
+
 body {
   margin: 0;
   background-color: lightgray;
