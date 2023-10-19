@@ -4,8 +4,57 @@
   box-sizing: content-box;
 }
 
+h1 {
+  color: blue;
+  font-style: italic;
+  font-size: 70px;
+}
+h2 {
+  color: red;
+  font-size: 40px;
+}
+
+p {
+  color: greenyellow;
+  font-size: 20px;
+}
+
+h3 {
+  color: aqua;
+  font-size: 40px;
+}
+
+h4 {
+  color: violet;
+  font-size: 40px;
+
+}
+
+
+img{
+width: 200px;
+height: auto; 
+position: absolute;
+top: 17px;
+right: 17px;
+}
+
 body {
   margin: 0;
-  background-color: lightgray;
+  background-image: url(hintergrund.jpeg);
+  background-size: cover;
+
   font-family: sans-serif;
+}
+
+
+.text {
+  border: 3px;
+  margin: 17px;;
+}
+
+#kind {
+  color: chocolate;
+  font-size: 40px;
+
 }
